@@ -1,5 +1,7 @@
-## Hi there 👋
+### Hi 🐈
 
+I'm 20yo Social Informatics student interested in building web applications. Currently I'm learning how to build them with MERN stack. Recently I've started exploring data science too. 
+Have a look at my pinned repos - there're some of projects I've created ✨
 <!--
 **karrola/karrola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
